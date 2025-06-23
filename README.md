@@ -1,7 +1,7 @@
 <h2 align="center">Oie! Seja bem-vindo(a) ao meu cantinho! 🧸🌼</h2>
 
 <p align="center">
-  <img src="[ https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGY0ZG95MzBnazM5OGxnenBtdXN2aXQ2OXJtbzQzMHVxcDExb2F0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKicvKt6iisXS/giphy.gif)" width="250" />
+  <img src="https://giphy.com/gifs/cherry-blossom-NKicvKt6iisXS" width="250" />
 </p>
 
 ### ✨ Sobre mim
