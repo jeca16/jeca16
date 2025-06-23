@@ -1,7 +1,7 @@
 <h2 align="center">Oie! Seja bem-vindo(a) ao meu cantinho! 🧸🌼</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" />
+  <img src=" https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="250" />
 </p>
 
 ### ✨ Sobre mim
