@@ -6,7 +6,8 @@
 
 ### ✨ Sobre mim
 
-👩‍💻 Me chamo **[Seu nome]**, e sou estudante de Desenvolvimento de Sistemas no SENAI.  
+👩‍💻 Me chamo Jessica, e sou estudante de Analise e Desenvolvimento de Sistemas na uninove.  
+👩‍💻 fui estudante de desenvolvimento de sistemas no Senai jandira.
 🎯 Apaixonada por tecnologia, arte e animações!  
 🎨 Explorando o mundo da programação com criatividade e café ☕  
 
@@ -18,13 +19,16 @@
 - Lógica de programação
 - Git e GitHub
 - Banco de Dados
+- php
+- c#
+- python
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?jeca16=JECA-16&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
