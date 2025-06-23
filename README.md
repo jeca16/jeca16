@@ -1,7 +1,7 @@
 <h2 align="center">Oie! Seja bem-vindo(a) ao meu cantinho! 🧸🌼</h2>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/cherry-blossom-NKicvKt6iisXS" width="250" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" />
 </p>
 
 ### ✨ Sobre mim
@@ -45,3 +45,4 @@
 <p align="center">
   💖 Obrigada por visitar meu perfil! 💖
 </p>
+
