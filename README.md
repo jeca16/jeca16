@@ -36,9 +36,9 @@
 
 ### 📫 Como me encontrar
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/seuuser)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuuser)
-[![Portfólio](https://img.shields.io/badge/Portfólio-%23ff69b4.svg?style=for-the-badge&logo=github&logoColor=white)](https://seuportfolio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jess_p.s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jessica-pereira)
+
 
 ---
 
